@@ -1,1 +1,78 @@
-# System-Design
+# System Design Introduction
+
+## Basics
+
+- Questions
+  - What features to work on?
+  - How much the system should scale.
+  - Don’t use buzz words. 
+  - Clear and organized thinking. 
+  - Drive discussions. 
+- Areas of questions. 
+  - Understand Features 
+  - Define APIs
+  - Availability
+  - Latency Performance
+  - Scalability
+  - Durability
+  - Class Diagram
+  - Security and Privacy
+  - Cost Effective
+- Key Concepts
+  - Vertical vs Horizontal Scaling
+    - Individual System vs Distributed System
+  - Consistency Availability Partition Tolerance
+    - Only achieve 2/3 can be achieved. 
+  - ACID vs BASE
+    - Atomic Consistency Isolation Durability: Relation Database
+    - Basically, Available Soft State Eventual Consistency: NoSQL
+  - Partitioning/Sharding Data
+    - Consistent Hashing
+  - Optimistic vs Pessimistic Locking
+  - Strong (NoSQL) vs Eventual Consistency
+  - Relational DB vs NoSQL
+  - Types of NoSQL
+    - Key/Value
+    - Wide Column
+    - Document based
+    - Graph Based
+  - Caching (Cannot be the source truth)
+  - Data Center -> Racks -> Hosts
+  - CPU / Memory / HardDrive /Network Bandwidth\
+  - Random vs Sequential Reads and Writes to Disk. 
+  - Http vs Http2 vs WebSocket
+  - TCP/IP 
+  - IPv4 vs IPv6
+  - TCP vs UDP
+  - DNS Lookup
+  - Https vs TLS
+  - Public Key Infrastructure vs Certificate Authority
+  - Symmetric vs Asymmetric encryption
+  - Load Balancer -> L4 vs L7
+  - Content Delivery Networks and Edge
+  - Bloom Filters & Count-min Sketch
+  - Paxos
+    - Consensus over distributed hosts
+  - Design Patterns and Object-oriented design 
+  - Virtual Machines and containers. 
+  - Publisher-Subscriber vs Queue
+  - Map Reduce
+  - Multi-threading, concurrency, locks, synchronization and CAS Compare and Swap. 
+- Tools
+  - Cassandra, MongoDB/Couch Base, MySQL
+  - MemCacheD/Redis
+  - Zookeeper: Centralized configuration management tool. 
+  - Kafka
+  - Load Balancers: NGINX, HAProxy
+  - Search: Solr, Elastic Search
+  - Blobstore line Amazaon S3
+  - Docker: Kubernetes, Mesos
+  - Hadoop/Spark
+    - HDFS
+- DEVOPS
+  - Source Code Management: SVN/GIT
+  - Configuration Management: Chef/Puppet
+  - Continues Integration/Delivery: Jenkins
+  - Error Management: Splunk/ New Relic
+  - Cloud and Container: Docker and Kubernetes
+  - Build: Maven
