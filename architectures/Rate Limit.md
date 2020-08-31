@@ -21,7 +21,7 @@
 
 - Leaky Bucket: FIFO Used as Queue. 
 
-  ![Leaky Bucket](\\System-Design\images\Leaky_Bucket.png)
+  ![Leaky Bucket](\images\Leaky_Bucket.png)
 
 - Fixed Window Counter: 
 
