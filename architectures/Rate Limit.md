@@ -21,15 +21,15 @@
 
 - Leaky Bucket: FIFO Used as Queue. 
 
-  ![Leaky Bucket](\images\Leaky_Bucket.png)
+  ![Leaky Bucket](/images/Leaky_Bucket.png)
 
 - Fixed Window Counter: 
 
-  ![Fixed Window Counter](\\System-Design\images\Fixed_Window_Counter.png)
+  ![Fixed Window Counter](/images/Fixed_Window_Counter.png)
 
 - Sliding Logs: 
 
-  ![](\\System-Design\images\Sliding_Window_Counter.png)
+  ![](/images/Sliding_Window_Counter.png)
 
 - Sliding Window Counter: With Counter 
 
