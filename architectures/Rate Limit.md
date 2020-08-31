@@ -17,7 +17,7 @@
 
 - Token Bucket: User ID, Time Stamp and Counter
 
-  ![](\\System-Design\images\Token_Bucket.png)
+  ![Token Bucket](/images/Token_Bucket.png)
 
 - Leaky Bucket: FIFO Used as Queue. 
 
