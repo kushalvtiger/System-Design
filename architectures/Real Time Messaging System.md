@@ -13,4 +13,4 @@
 
 ##### Architecture
 
-![Real Time Messaging](images/Real Time Messaging.png)
+![Real Time Messaging](/images/Real Time Messaging.png)
