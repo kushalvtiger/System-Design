@@ -34,7 +34,7 @@
 
 - Distributed coordination service.
 
- ![Distributed URL Shortner using Zoo Keeper](\\System-Design\images\Zoo Keeper.png)
+ ![Distributed URL Shortner using Zoo Keeper](/images/Zoo_Keeper.png)
 
 ##### APIs
 
